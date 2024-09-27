@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi There 👋. I'm Pranav Patel
+Deep diving in the world of data, while also exploring the realms of ML & AI.
 
-<!--
-**PranavP4tel/PranavP4tel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details open>
+<summary>My Top Technologies:</summary>
 
-Here are some ideas to get you started:
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| SQL       |
+|     3| MongoDB   |
+|     4| R         |
+|     5| PowerBI   |
+|     6| Excel     | 
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working Python and R for Data Analysis
+- 🌱 I’m currently learning Machine Learning
+- 📫 I would be happy to connect via [email](pranavp778@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/pranav-analyst)!
