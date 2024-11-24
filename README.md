@@ -14,6 +14,6 @@ Deep diving in the world of data, while also exploring the realms of ML & AI.
 |     6| Excel     | 
 </details>
 
-- 🔭 I’m currently working Python and R for Data Analysis
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working with Python and R for Data Analysis
+- 🌱 I’m currently learning Machine Learning and Deep Learning
 - 📫 I would be happy to connect via [email](pranavp778@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/pranav-analyst)!
